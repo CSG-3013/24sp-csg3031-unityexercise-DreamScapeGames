@@ -7,11 +7,13 @@ TagManager:
   - CinemachineTarget
   - Trash
   - Trash2
+  - PushableObject
+  - EndTrigger
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Pushable
   - Water
   - UI
   - 
